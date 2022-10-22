@@ -1,0 +1,320 @@
+.divnew{
+    margin-left: 450px;
+}
+.pnewyork{
+    color: rgba(156, 147, 147, 2);
+}
+.divice{
+    display: flex;
+}
+
+.p3newyork{
+    margin-left: 30px;
+border: 1px silver solid;
+}
+.p2newyork{
+    margin-left: 30px;
+border: 1px silver solid;
+}
+.p1newyork{
+    margin-left: 260px;
+border: 1px silver solid;
+}
+.img1{
+    margin-left: 20px;
+}
+.img1:hover{
+transform: scale(1.1);
+transition: 2s;
+}
+.label1{
+    margin-left: 30px;
+}
+.label2{
+    margin-left: 120px;
+}
+.label3{
+    margin-left: 105px;
+}
+.label4{
+    margin-left: 125px;
+}
+.divpox{
+    display: flex;
+}
+
+.h55{
+    margin-left: 30px;
+    color: rgba(200, 200, 200, 1 );
+}
+.h510{
+    margin-left: 90px;
+    color: rgba(200, 200, 200, 1 );
+}
+.h58{
+    margin-left: 90px;
+    color: rgba(200, 200, 200, 1 );
+}
+.h520{
+    margin-left: 90px;
+    color: rgba(200, 200, 200, 1 );
+}
+.img2{
+    margin-left: 20px;
+}
+.img2:hover{
+    transform: scale(1.1);
+    transition: 2s;
+    }
+    .label5{
+        margin-left: 30px;
+    }
+    .label6{
+        margin-left: 70px;
+    }
+    .label7{
+        margin-left: 120px;
+    }
+    .label8{
+        margin-left: 105px;
+    }
+    .divpoxx{
+        display: flex;
+    }
+    .divcontact{
+        margin-left: 450px;
+    }
+     .h4sol{
+         margin-left: 30px;
+     }
+     .divcon{
+         display: flex;
+     }
+     .h5sol{
+        margin-left: 130px;
+    }
+ .tdd1{
+     padding-left: 70px;
+ }
+ .th10{
+     padding-left: 28px;
+ }
+ .tdmarketing{
+     padding-left: 28px;
+ }
+ .tdsales{
+     padding-left: 28px;
+ }
+ .tddev{
+    padding-left: 33px;
+}
+.tddesign{
+    padding-left: 29px;
+}
+.tdpricing{
+    padding-left: 28px;
+}
+.tddata{
+    padding-left: 27px;
+}
+.tdsupport{
+    padding-left: 32px;
+}
+.tddocum{
+    padding-left: 28px;
+}
+.tdselect{
+    padding-left: 125px;
+    margin-left: 68px;
+}
+.tdabout{   
+    padding-left: 26px;
+}
+.tdblog{
+    padding-left: 26px;
+}
+.tdjobs{
+    padding-left: 33px;
+}
+.tdpress{
+    padding-left: 27px;
+}
+.th11{
+    padding-right: 29px;
+}
+.th12{
+    padding-left: 25px;
+}
+.th13{
+    padding-left: 28px;
+}
+.tdclaim{
+    padding-left: 26px;
+}
+.tdprivacy{
+    padding-left: 25px;
+}
+.tdterms{
+    padding-left: 31px;
+}
+.tdsubscribe{
+    padding-left: 20px;
+}
+.ththe{
+    padding-left: 19px;
+}
+.selecter{
+   padding: 15px 100px 0 0;
+   border: 2px black solid;
+   border-radius: 5px 5px;
+}
+.selecterk{
+    padding: 15px 50px 0 0;
+    border: 2px black solid;
+    border-radius: 5px 5px;
+}
+nav{
+    position: relative;
+    display: flex;
+    left: 417px;
+    bottom: 51px;
+}
+.a1{
+    color: white;
+    font-weight: 700;
+
+}
+.a2{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+
+} 
+.p1newyork {
+    box-shadow: 5px 10px 13px #888888;
+  }
+  .p2newyork {
+    box-shadow: 5px 10px 13px #888888;
+  }
+  .p3newyork {
+    box-shadow: 5px 10px 13px #888888;
+  }
+  .pnumber{
+      color: #888888;
+  }
+ .ppp{
+     position: relative;
+     left: 450px;
+ }
+ .input1{
+     position: relative;
+     bottom: 80px;
+ }
+ .ppp1{
+     position: relative;
+     left: 450px;
+     bottom: 160px;
+ }
+ .ppp2{
+     position: relative;
+     left: 450px;
+     bottom: 165px;
+ }
+ .fti{
+     position: relative;
+     left: 450px;
+     bottom: 160px;
+ }
+ .iframeqartez{
+     position: relative;
+     bottom: 120px;
+ }
+ .selectmain{
+     margin:0 0 10px 200px;
+     padding: 20px 300px 0 0;
+     position: relative;
+     bottom: 100px;
+ }
+ .divabout{
+     margin-left: 450px
+     ;
+ }
+ .navdi{
+    position: relative;
+    display: flex;
+    left: 309px;
+    bottom: 1px;
+ }
+ .trump{
+     position: relative;
+     bottom: 230px;
+     left: 580px;
+     border: 2px black groove;
+ }
+ .divit{
+ position: relative;
+ bottom: 470px;
+ left: 270px;
+ }
+ .dikanard{
+     position: relative;
+     bottom: 680px;
+     border: 2px black groove;
+     left: 50px;
+ }
+ .imglong{
+    position: relative;
+    bottom: 650px;
+     margin-left: 40px;
+ }
+ .divpoqr{
+     position: relative;
+     bottom: 630px;
+ }
+ .divman{
+     margin-left: 350px;
+ }
+ .divcoctel{
+    margin-left: 350px;
+}
+.divcoffe{
+    margin-left: 110px;
+}
+.divitis{
+    display: flex;
+    position: relative;
+    bottom: 630px;
+}
+.pa{
+    margin-left: 220px;
+}
+.pis{
+    margin-left: 220px;
+}
+.pits{
+    margin-left: 50px;
+}
+.divblue{
+    display: flex;
+    position: relative;
+    bottom: 650px;
+}
+.pkarmir{
+    margin-left: 320px;
+}
+.pkanach{
+    margin-left: 330px;
+}
+.pkaput{
+    margin-left: 70px;
+}
+.divnewyor{
+    position:relative;
+    bottom: 500px;
+    margin-left: 500px;
+}
+.imgsaylut{
+    position: relative;
+    bottom: 850px;
+    margin-left: 20px;
+}
